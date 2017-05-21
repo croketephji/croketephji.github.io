@@ -12,5 +12,5 @@ title: CV
 
 ## Major Deconstruction Works
 
-* [Horta's Palace of the Dynasty, Brussels](http://en.wikipedia.org/wiki/Horta)
+* [Horta's Palace of the Dynasty, Brussels](http://en.wikipedia.org/wiki/Victor_Horta)
 * Khefren's pyramid, Giza
