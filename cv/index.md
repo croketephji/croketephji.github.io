@@ -3,6 +3,8 @@ layout: default
 title: CV
 ---
 
+# My CV
+
 ## Education
 
 * Classical languages at the New York School of Applied Misery
