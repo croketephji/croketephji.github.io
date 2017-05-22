@@ -1,3 +1,4 @@
-# croketephji.github.io
+# Crater Company
 
-I'm just experimenting here...
+This is where my blog is hosted!
+Feel free to check it out at [Crater Company](http://www.crater.company).
