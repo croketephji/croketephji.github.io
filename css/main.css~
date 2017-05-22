@@ -7,7 +7,6 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: #e6b3b3;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -23,10 +22,6 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-blockquote {
-    font-size: 1.2em;
-    color: #b3e6e6;
 }
 p {
     font-size: 1.5em;
