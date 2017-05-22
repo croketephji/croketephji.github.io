@@ -3,9 +3,8 @@ layout: default
 title: Tags
 ---
 
-Migratie
-Taal
-Samenleving
-Bestuur
-Architectuur
-
+<ul>
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
+</ul>
