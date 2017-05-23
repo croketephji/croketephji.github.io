@@ -1,10 +1,13 @@
 body {
     margin: 60px auto;
     width: 50%;
+    background-color:#90a1cf;
+    background-image:url("/materials/drop2.png");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
     list-style: none;
     font-weight: bold; 
 }
@@ -14,7 +17,6 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #ff9999;
 }
 a:hover {
@@ -22,19 +24,38 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #e6b3b3;
+    color: #ff9999;
     letter-spacing: -4px;
     word-spacing: 7px;
+/*    background-color: rgba(255, 255, 255, 0.5); */
+    margin-top: 110px;
+    margin-bottom: 50px;
+}
+h2 {
+    font-size: 2em;
+    color: #ff9999;
+    letter-spacing: -3px;
+    word-spacing: 7px;
+/*    background-color: rgba(255, 255, 255, 0.5); */
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 blockquote {
-    font-size: 0.8em;
+    font-size: 1em;
+    margin: 0px;
+    text-align: right;
+    color: rgba(255,255,255,0.5);
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
- /*   color: #333; Why does this override blackquote? */
+    font-size: 1.3em;
+    background-color: rgba(255, 255, 255, 0.3);
+    line-height: 2em;
+    color: #201005; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    text-align: justify;
 
 }
 footer {

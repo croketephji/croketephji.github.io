@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Tags
+title: Stokpaardjes
 ---
 
-<ul>
-  {% for tags in page.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
-</ul>
+<h1>Stokpaardjes</h1>
+
+{% for tag in site.tags %}
+
+<a href="{{site.tags.tag}}">{{ tag | first }}</a>
+
+{% endfor %}
