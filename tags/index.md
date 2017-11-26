@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Stokpaardjes
+title: Tags
 ---
 
-<h1>Stokpaardjes</h1>
+<h1>Tags</h1>
 
 {% for tag in site.tags %}
 
