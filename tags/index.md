@@ -7,6 +7,6 @@ title: Tags
 
 {% for tag in site.tags %}
 
-<a href="{{site.tags.tag}}">{{ tag | first }}</a>
+[{{ tag | first }}]({{site.tags.tag}})
 
 {% endfor %}

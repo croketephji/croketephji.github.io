@@ -2,4 +2,9 @@ name: Crater Company
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 timezone: Asia/Hebron
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
