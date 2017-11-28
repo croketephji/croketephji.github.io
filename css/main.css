@@ -5,40 +5,63 @@ body {
     background-image:url("/materials/drop2.png");
     background-repeat:no-repeat;
     background-attachment: fixed;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Playfair Display SC', serif;
 }
-nav ul, footer ul {
-    list-style: none;
-    font-weight: bold; 
+
+.content {
+	background-color: hsla(30,0%,50%,0.75);
+	padding: 5px;
+	margin-top: 60px;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+
 a {
     text-decoration: none;
-    color: #ff9999;
+    color: rgba(235, 215, 220, 1);
 }
+
+nav ul, footer ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; /* assumes you only want one row */
+}
+
+nav ul li, footer ul li {
+    display: inline-block;
+}
+
 a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
+	text-decoration-color: #fe9a9a;
 }
 h1 {
-    font-size: 3em;
-    color: #ff9999;
-    letter-spacing: -4px;
+    font-size: 4em;
+    color: #ebd7dc;
+	line-height: 0.85em;
     word-spacing: 7px;
-/*    background-color: rgba(255, 255, 255, 0.5); */
-    margin-top: 110px;
-    margin-bottom: 50px;
+    text-align: ;
+    margin-top: 70px;
+    text-decoration: underline;	
+	text-decoration-color: #fe9a9a;
+	font-weight: bold;
 }
+
 h2 {
     font-size: 2em;
-    color: #ff9999;
-    letter-spacing: -3px;
+    color: hsl(0,100%,80%);
+	font-weight: normal;
+}
+
+h3 {
+    font-size: 2.5em;
+	color: #ebd7dc;
     word-spacing: 7px;
-/*    background-color: rgba(255, 255, 255, 0.5); */
-    margin-top: 50px;
-    margin-bottom: 50px;
+	text-align: center;
+	font-weight: normal;
+	font-family:'Playfair Display SC', serif;
+
 }
 blockquote {
     font-size: 1em;
@@ -47,17 +70,25 @@ blockquote {
     color: rgba(255,255,255,0.5);
 }
 
+p:first-child:first-letter {
+  color: rgba(235, 215, 220, 1);
+  font-family:'Playfair Display SC', serif;
+  font-weight: bold;
+  font-size: 2em;
+  padding-right: 2px;
+}
+
 p {
-    font-size: 1.3em;
-    background-color: rgba(255, 255, 255, 0.3);
+    font-size: 1.1em;
     line-height: 2em;
-    color: #201005; 
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 10px;
+    color: rgba(235, 215, 220, 1); 
+    padding-left: 25px;
+	padding-right: 25px;
     text-align: justify;
+	font-family:'Taviraj', 'Serif'
 
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;

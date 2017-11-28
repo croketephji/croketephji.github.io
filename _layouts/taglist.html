@@ -1,11 +1,14 @@
 ---
 layout: default
-title: Crater Company
----	
+---
 
-	  {% for post in site.posts limit:5 %}
+<h2>{{ page.title }}</h2>
+
+{% for post in site.tags[page.listed-tag] %}
 <div class='content'>
 <a href="{{ post.url }}"><h3 title="{{ post.date | date_to_string }}. Tags: {{ post.tags  | array_to_sentence_string: ',' }}"> {{ post.title }} </h3></a>
-<div>{{ post.content }}</div>
+<div>
+{{ post.content }}
 </div>
-	  {% endfor %}
+</div>
+{% endfor %}
