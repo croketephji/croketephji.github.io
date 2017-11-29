@@ -6,7 +6,7 @@ layout: default
 
 {% for post in site.tags[page.listed-tag] %}
 <div class='content'>
-<a href="{{ post.url }}"><h3 title="{{ post.date | date_to_string }}. Tags: {{ post.tags  | array_to_sentence_string: ',' }}"> {{ post.title }} </h3></a>
+<a href="{{ post.url }}"><h3 title="{{ post.date | date_to_string }}. Tags: {{ post.tags  | array_to_sentence_string: ',' }}"><img alt="post logo" src=\assets\post-logos\{{ post.logo }} style="height:40px;">  {{ post.title }} </h3></a>
 <div>
 {{ post.content }}
 </div>

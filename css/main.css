@@ -14,9 +14,20 @@ body {
 	margin-top: 60px;
 }
 
+.meta {
+	font-size: 0.8em;
+    line-height: 2em;
+    color: rgba(235, 215, 220, 1); 
+    padding-left: 25px;
+	padding-right: 25px;
+    text-align: justify;
+	font-family:'Taviraj', 'Serif'
+
+}
+
 a {
     text-decoration: none;
-    color: rgba(235, 215, 220, 1);
+    color: hsl(30,0%,50%);
 }
 
 nav ul, footer ul {
@@ -26,6 +37,7 @@ nav ul, footer ul {
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: nowrap; /* assumes you only want one row */
+  color: hsl(30,0%,50%);
 }
 
 nav ul li, footer ul li {
@@ -35,6 +47,12 @@ nav ul li, footer ul li {
 a:hover {
 	text-decoration: underline;
 	text-decoration-color: #fe9a9a;
+}
+
+p a {
+	text-decoration: underline;
+	text-decoration-color: #fe9a9a;
+	color: rgba(235, 215, 220, 1);
 }
 h1 {
     font-size: 4em;
@@ -48,9 +66,24 @@ h1 {
 	font-weight: bold;
 }
 
+.img-inline-left {
+	padding: 15px;
+	max-width: 40%;
+    height: auto;
+	display: block;
+	float:left;
+}
+
+.img-inline-full {
+	padding: 0px;
+	max-width: 100%;
+    height: auto;
+	display: block;
+}
+
 h2 {
     font-size: 2em;
-    color: hsl(0,100%,80%);
+	color: #fe9a9a;
 	font-weight: normal;
 }
 
@@ -58,9 +91,10 @@ h3 {
     font-size: 2.5em;
 	color: #ebd7dc;
     word-spacing: 7px;
-	text-align: center;
+	text-align: left;
 	font-weight: normal;
-	font-family:'Playfair Display SC', serif;
+	font-family:'Taviraj', serif;
+	padding-left: 25px;
 
 }
 blockquote {
