@@ -9,7 +9,7 @@ Hungry, I land at *Napoli Cafe & Resturan* on al-Quds Street. Apart from Jerusal
 
 <img alt="Me sitting on a fossil" src="/assets/img/me-on-fossil.svg" class="img-inline-full">
 
-My European fondness for old things is foreign in this boom town. Its thousands of residents all say they're from Nablus and Jericho, its dozens of ministries all want to be in Jerusalem - and Safwat, who is interrogating me in between incoming phone orders. He never breaks off eye contact. I tell him I'm looking for work. I can write, I'm a designer. "You do social media, man?" I hate social media. I say yes. Am I  hired now?
+My European fondness for old things is foreign in this boom town. Its thousands of residents all say they're from Nablus and Jericho, its dozens of ministries all want to be in Jerusalem - and then there's Safwat, who is interrogating me in between incoming phone orders. He never breaks off eye contact. I tell him I'm looking for work. I can write, I'm a designer. "You do social media, man?" I hate social media. I say yes. Am I  hired now?
 
 Business hasn't been great, Safwat complains as I dig into my *pizza vegetables*. He was a chef at fancy Café La Vie in the city center for six years, but now he has his own place, this place, with pizza and sandwiches in both international and [Palestinian versions](https://en.wikipedia.org/wiki/Manakish). His major customers have been employees of the office buildings around the restaurant - mostly banks, each trying to outdo the others in patriotism: Palestine Bank, Wataniya (Homeland) Bank, Al-Quds Bank and Arab Bank.
 
