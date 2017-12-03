@@ -5,7 +5,7 @@ tags: story Ramallah
 title: Napoli Cafe & Resturan
 logo: pizza.svg
 ---
-Hungry, I land at *Napoli Cafe & Resturan* on al-Quds Street. Apart from Jerusalem, the road also leads to a very unremarkable hill that has piqued my interest. According to my research, it might harbour dinosaur tracks, like those discovered on a sleepy hilltop west of Jerusalem during the last century. I don't tell Safwat, the owner of the Napoli, any of this. In truth, I've felt like something of a fossil myself in Ramallah. 
+Hungry, I land at *Napoli Cafe & Resturan* on al-Quds Street. Apart from Jerusalem, the road also leads to a very unremarkable hill that has piqued my interest. According to my research, it might harbour dinosaur tracks, like those discovered in 1962 on a sleepy hilltop west of Jerusalem. I don't tell Safwat, the owner and chef at the Napoli, any of this. In truth, I've felt like something of a fossil myself in Ramallah. 
 
 <img alt="Me sitting on a fossil" src="/assets/img/me-on-fossil.svg" class="img-inline-full">
 
